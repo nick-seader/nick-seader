@@ -30,7 +30,7 @@ I have completed the following courses and certifications:
 
 ## Contact Information
 
-⚡ free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jnseader/)
+⚡ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jnseader/).
 <!--
 **nick-seader/nick-seader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
