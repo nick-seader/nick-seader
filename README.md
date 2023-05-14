@@ -17,6 +17,7 @@ I am always working on and learning new things. I am currently learning large-sc
 
 I have completed the following courses and certifications:
 
+- Spark and Python for Big Data with PySpark | Udemy
 - TensorFlow Developer Certificate | Google
 - Deep Learning Specialization | DeepLearning.AI
 - TensorFlow Developer | DeepLearning.AI
